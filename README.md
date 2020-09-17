@@ -4,6 +4,12 @@
 
 > Link: https://image-gallery-8d0ec.web.app/
 
+## Demo
+<img src="./imgs/demo1.jpg" alt="Demo Image 1">
+<p align=center>Image Gallery Website</p> 
+<img src="./imgs/demo2.jpg" alt="Demo Image 2">
+<p align=center>Modal popup</p> 
+
 ## Installation
 
 > Note : Follow these steps only if you want to run the web app locally in you machine or make changes to it
